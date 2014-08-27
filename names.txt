@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 Please put down your name: Tianyuan Ding, An Wu, Kevin Dou, Kelly Idouchi, Harry Zeng
-                           Jason Yan, Karen Jung!, Billy Li
+                           Jason Yan, Karen Jung!, Billy Li, Xing Chen
 =======
 Please put down your name: Tianyuan Ding, An Wu, Kevin Dou, Kelly Idouchi, Harry Zeng,Jason Yan, Karen Jung!, Omar Syed, Benson zhang, Ethan Chan
 >>>>>>> bd22614801cd08268b36dede227b98d4572fcd53
