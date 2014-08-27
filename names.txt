@@ -1,4 +1,12 @@
-Please put down your name: Tianyuan Ding, An Wu, Kevin Dou, Kelly Idouchi, Harry Zeng
-                           Jason Yan, Karen Jung!, Billy Li, Xing Chen, Mathew Gray, Foo Lai Choo,
-                           Omar Syed, Benson zhang, Ethan Chan, Mathew Gray
+Please put down your name: Tianyuan Ding, An Wu, Kevin Dou, Kelly Idouchi,
+Harry Zeng
+Jason Yan!
+Karen Jung!, Billy Li
+Omar Syed, Benson zhang
+Xing Chen
+Ethan Chan
+Mathew Gray
+Alex Fischer
+Foo Lai Choo
+Connie Wen
 
