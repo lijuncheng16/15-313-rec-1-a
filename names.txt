@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Please put down your name: Tianyuan Ding, An Wu, Kevin Dou, Kelly Idouchi,
 Harry Zeng
 Jason Yan!
 Karen Jung!, Billy Li
 Omar Syed, Benson zhang
+Xing Chen
+Ethan Chan
+
 Connie Wen
