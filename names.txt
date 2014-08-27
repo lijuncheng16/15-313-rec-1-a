@@ -1,1 +1,20 @@
+<<<<<<< HEAD
 Please put down your name: Tianyuan Ding, An Wu, Kevin Dou, Kelly Idouchi, Harry Zeng,Jason Yan, Karen Jung!, Omar Syed, Benson zhang, Ian Glasner
+=======
+Please put down your name: Tianyuan Ding, An Wu, Kevin Dou, Kelly Idouchi,
+Harry Zeng
+Jason Yan!
+Karen Jung!, Billy Li
+Omar Syed, Benson zhang
+Xing Chen
+Ethan Chan
+Mathew Gray
+Alex Fischer
+Ben Hong
+Foo Lai Choo
+Connie Wen
+Zhi Ting Lim
+Hui Jun Tay
+Lindsay Zhong
+Shuai Shao
+>>>>>>> FETCH_HEAD
